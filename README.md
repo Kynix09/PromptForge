@@ -1109,4 +1109,4 @@ then use the RealVisXL style.
 
 # License
 
-Use, edit, and modify PromptForge however you want.
+Use, edit, and modify PromptForge however you want but you have to mention me.
